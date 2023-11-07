@@ -1,0 +1,175 @@
+.bg-Settings {
+    background: #FFFFFF;
+    border-right: 1px solid #E7E9EF;
+    height: 100vh;
+}
+
+.list-group-item {
+    border: none;
+}
+
+.bg-setting-color {
+    background: #F5F5F5;
+    height: 100vh;
+}
+
+.padding-top-left {
+    padding: 40px 32px 20px;
+}
+
+.myprofilepadding-top-left {
+    padding: 10px 72px;
+}
+
+.font {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #242C37;
+}
+
+.font-def {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #535E70;
+}
+
+.setting-font {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0F79DC;
+}
+
+.sp {
+    padding: 40px 85px 0px 11px;
+}
+
+h4.line {
+    display: flex;
+    flex-direction: row;
+    color: #B4C1D6;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+h4:before,
+h4:after {
+    content: "";
+    flex: 1 1;
+    border: 1px solid #B4C1D6;
+    ;
+    margin: auto;
+}
+
+h4:before {
+    margin-right: 10px;
+}
+
+h4:after {
+    margin-left: 10px;
+}
+
+.googlepadding {
+    padding: 16px 5px;
+}
+
+.border {
+    background: #FFFFFF;
+    border: 1px solid #E7E9EF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #535E70;
+}
+
+.size {
+    width: 130px;
+}
+
+.paddingsave {
+    padding: 16px 169px;
+    background: #0F79DC;
+    border-radius: 128px;
+}
+
+.confoam {
+    background: #FFFFFF;
+    border: 1px solid #E7E9EF;
+    border-radius: 4px;
+    padding: 14px;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #535E70;
+    background-color: white;
+    border-color: none;
+}
+
+.margin-end {
+    margin-right: 20px;
+    position: relative;
+    right: 20px;
+}
+.paddinginnerr{
+    padding: 14px 438px 14px 16px;
+}
+.paddingtypehere{
+    padding:14px 489px 122px 16px;
+}
+.contactcancel{
+background: #FFFFFF;
+border: 1px solid #E7E9EF;
+border-radius: 128px;
+padding: 16px 53px 16px 54px;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+text-align: center;
+color: #B4C1D6;
+}
+.send{
+    padding: 16px 280px 16px 129px;
+border-radius: 128px;
+
+}
+.text-cenpoter{
+    position: relative;
+    left: 60px;
+}
+@media only screen and (max-width: 562px) {
+    .target {
+        padding: 16px 30px 0px 14px;
+    }
+  }
+  @media only screen and (max-width: 562px) {
+    .send {
+        margin-top: 18px;
+    }
+  }
+  @media only screen and (max-width: 549px) {
+    .paddinginnerr {
+        padding: 14px 0px 14px 16px;
+        width: 440px;
+        max-width: 100%;
+    }
+  }
+  @media only screen and (max-width: 549px) {
+    .paddingtypehere {
+        padding: 10px 0px 116px 16px;
+        width: 440px;
+        max-width: 100%;
+    }
+  }
+  .display-center{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+  }
+
+

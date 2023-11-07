@@ -1,0 +1,68 @@
+.bg-Settings {
+    background: #FFFFFF;
+    border-right: 1px solid #E7E9EF;
+    height: 100vh;
+}
+.list-group-item {
+    border: none;
+}
+.bg-setting-color {
+    background: #F5F5F5;
+    height: auto;
+    padding-bottom: 0px;
+}
+.padding-top-left {
+    padding: 40px 32px 20px;
+}
+.myprofilepadding-top-left {
+    padding: 10px 72px;
+}
+.font {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #242C37;
+}
+.font-def {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #535E70;
+}
+.setting-font {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0F79DC;
+}
+.sp {
+    padding: 40px 85px 0px 11px;
+}
+.list-group-item.active {
+    color: #535E70;
+    background-color: white;
+    border-color: none;
+}
+.margin-end {
+    margin-right: 20px;
+    position: relative;
+    right: 20px;
+}
+.billdate {
+    font-weight: 400;
+    font-size: 16px;
+    color: #535E70;
+}
+.standar-paper{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #535E70;
+}
+.MyProjectname{
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #242C37;
+}
